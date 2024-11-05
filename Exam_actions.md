@@ -12,7 +12,8 @@
 
 5.  [] Set up the Sigin and Login Functionality.(No user roles is required)
 
-6.  [] Create a Navbar that will on all pages with a user logout button avatar.
+6.  [] Create a Navbar that will be on all pages with a user logout button
+    avatar.
 
 7.  [] On the user avatar button must be the logout, themes and profile link.
 
