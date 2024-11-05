@@ -43,5 +43,5 @@
 
 16. [] The table head must have the following titles: see fields.md
 
-17. [] Create a new user login with that user and confirm that each user has a
-    fresh empty account for themselves
+17. [] Create a new user login and with that user and confirm that each user has
+    a fresh empty account for themselves
